@@ -1,5 +1,3 @@
-# qr-code-intake-workflow
-
 # QR Code Business Card & Intake Workflow
 
 ## Overview
